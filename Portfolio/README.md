@@ -46,6 +46,7 @@ A portfolio template, created by Toucans Team 23 using ReactJS.
     git clone https://github.com/<your-github-username>/Toucans-Team-23.git
     git clone https://github.com/LoneWolf36/Toucans-Team-23.git
     cd Toucans-Team-23
+
  ```
 <details>
 <summary><strong> [OPTIONAL] Setup Upstreams</strong></summary>
