@@ -2,7 +2,7 @@
 
 Porfolio website template | Voyage-5 | chingu.io
 
-<p align="center"> <img height="200" src="https://github.com/LoneWolf36/Toucans-Team-23/blob/master/Portfolio/Logo/android-chrome-512x512.png"></p>
+<p align="center"> <img height="200" src="https://github.com/LoneWolf36/Toucans-Team-23/blob/master/Portfolio/public/logo/android-chrome-512x512.png"></p>
 <h1 align="center">Portfolio ReactJs</h1>
 
 A portfolio template, created by Toucans Team 23 using ReactJS.
@@ -18,7 +18,7 @@ A portfolio template, created by Toucans Team 23 using ReactJS.
 ## Features Wishlist
 
 - [ ] Progressive Web App
-- [ ]
+- [ ] 
 - [ ]
 - [ ]
 - [ ] 
@@ -46,7 +46,6 @@ A portfolio template, created by Toucans Team 23 using ReactJS.
     git clone https://github.com/<your-github-username>/Toucans-Team-23.git
     git clone https://github.com/LoneWolf36/Toucans-Team-23.git
     cd Toucans-Team-23
-
  ```
 <details>
 <summary><strong> [OPTIONAL] Setup Upstreams</strong></summary>
@@ -95,6 +94,9 @@ But merges are complicated. Please do read official documentation on merge. Unde
 ## Technology Stack
 
 - [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Bulma](https://bulma.io/)
 
 ## License
 
