@@ -1,0 +1,82 @@
+{
+    "0": {
+        "name": "Faizan/Khan",
+        "roles": [
+            "Developer",
+            "Hobbyist",
+            "Technology Enthusiast",
+            "Curious"
+        ],
+        "description": "Hi there! You are here means that you want to get to know me. Ok, so, you already know that my name is Faizan Khan. I am from Bahrain. I am an enthusiastic fresher who is passionate about learning new and upcoming technologies and work hard for the growth of the organization as well as personal growth. My curiosity to learn new things keeps me driven to learn more in this ever growing world, filled with great technologies.",
+        "qualities": [{
+                "value": "Adaptability",
+                "icon": "fa fa-check"
+            },
+            {
+                "value": "Communication skills",
+                "icon": "fa fa-comments"
+            },
+            {
+                "value": "Team player",
+                "icon": "fa fa-users"
+            },
+            {
+                "value": "Curiosity",
+                "icon": "fa fa-question"
+            },
+            {
+                "value": "Hard working",
+                "icon": "fa fa-code"
+            },
+            {
+                "value": "Friendly",
+                "icon": "fa fa-handshake"
+            },
+            {
+                "value": "My smile",
+                "icon": "fa fa-smile"
+            }
+        ]
+    },
+
+    "1": {
+        "name": "Umesh Kumar",
+        "roles": [
+            "Developer",
+            "Hobbyist",
+            "Technology Enthusiast",
+            "Curious"
+        ],
+        "description": "Hi there! You are here means that you want to get to know me. Ok, so, you already know that my name is Umesh Kumar. I am from Delhi,India. I am an enthusiastic fresher who is passionate about learning new and upcoming technologies and work hard for the growth of the organization as well as personal growth. My curiosity to learn new things keeps me driven to learn more in this ever growing world, filled with great technologies.",
+        "qualities": [{
+                "value": "Adaptability",
+                "icon": "fa fa-check"
+            },
+            {
+                "value": "Communication skills",
+                "icon": "fa fa-comments"
+            },
+            {
+                "value": "Team player",
+                "icon": "fa fa-users"
+            },
+            {
+                "value": "Curiosity",
+                "icon": "fa fa-question"
+            },
+            {
+                "value": "Hard working",
+                "icon": "fa fa-code"
+            },
+            {
+                "value": "Friendly",
+                "icon": "fa fa-handshake"
+            },
+            {
+                "value": "My smile",
+                "icon": "fa fa-smile"
+            }
+        ]
+    }
+
+}

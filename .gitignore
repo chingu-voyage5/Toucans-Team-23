@@ -3,3 +3,5 @@ Portfolio/node_modules/
 
 # Project
 Portfolio/dist/
+/server/node_modules
+/server/server.log

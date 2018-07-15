@@ -5,10 +5,10 @@ A portfolio made using React to display all my achievements and projects
 
 ## Table Of Contents
 
-  1. [Features Wishlist](#features-wishlist)
-  2. [Design Specs](#design-specs)
-  3. [Requirements for Development](#requirements-for-development)
-  4. [Technology Stack](#technology-stack)
+1.  [Features Wishlist](#features-wishlist)
+2.  [Design Specs](#design-specs)
+3.  [Requirements for Development](#requirements-for-development)
+4.  [Technology Stack](#technology-stack)
 
 ## Features Wishlist
 
@@ -20,39 +20,44 @@ A portfolio made using React to display all my achievements and projects
 
 ## Design Specs
 
-  * Font: 
-  ```
-  Raleway
-  Roboto
-  ```
-  * Colors: 
-  ```
-  #0ACD47
+- Font:
 
-  #00de72 - Options color / Clickable links color
 
-  #300d4f - Regions / Buttons
+```
+Raleway
+Roboto
+```
 
-  #5a6e9c - Light, non important text
+- Colors:
 
-  #e9edf6 - Background of the above text
 
-  #80518E
+```
+#0ACD47
 
-  #6B1C31
+#00de72 - Options color / Clickable links color
 
-  #F5DB2A
+#300d4f - Regions / Buttons
 
-  #F99846
+#5a6e9c - Light, non important text
 
-  #F16A62
-  ```
+#e9edf6 - Background of the above text
+
+#80518E
+
+#6B1C31
+
+#F5DB2A
+
+#F99846
+
+#F16A62
+```
 
 ## Requirements for Development
 
- - [React](https://reactjs.org/)
- - [npm](https://www.npmjs.com/get-npm)
- - [Git](https://git-scm.com/) 
+- [React](https://reactjs.org/)
+- [npm](https://www.npmjs.com/get-npm)
+- [Git](https://git-scm.com/)
 
 ## Technology Stack
 
